@@ -1,5 +1,3 @@
-# The Hamilton Experience
-
 #### Produced and composed by Ian Trefry in 2025
 
 ![image_alt](https://github.com/itrefry/itrefry.github.io/blob/1b2d6971a540a625998d026036f65c388fd9ee63/image.jpeg)
