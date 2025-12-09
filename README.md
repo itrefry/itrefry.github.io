@@ -1,6 +1,6 @@
 #### Produced and composed by Ian Trefry in 2025
 
-![image_alt](itrefry.github.io/image.jpeg)
+![image_alt](https://itrefry.github.io/image.jpeg)
 
 Image credits: [Hamilton College](https://s3.amazonaws.com/mediacdn.hamilton.edu/images/1:1/500/alexanderhamiltonmark01jpg.jpg)
 
