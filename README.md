@@ -8,8 +8,8 @@ Image credits: [Hamilton College](https://s3.amazonaws.com/mediacdn.hamilton.edu
 
 ### [Euphoria](https://itrefry.github.io/MP3-Files/Euphoria.mp3)
 
-### Night Out
+### [Night Out](https://itrefry.github.io/MP3-Files/Night-Out.mp3)
 
-### The Winter
+### [The Winter](https://itrefry.github.io/MP3-Files/The-Winter.mp3)
 
-### Graduation
+### [Graduation](https://itrefry.github.io/MP3-Files/Graduation.mp3)
